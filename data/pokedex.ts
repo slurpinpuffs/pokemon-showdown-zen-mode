@@ -5577,7 +5577,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		name: "Skitty",
 		types: ["Normal"],
 		genderRatio: {M: 0.25, F: 0.75},
-		baseStats: {hp: 50, atk: 145, def: 45, spa: 35, spd: 35, spe: 50},
+		baseStats: {hp: 50, atk: 45, def: 45, spa: 35, spd: 35, spe: 50},
 		abilities: {0: "Cute Charm", 1: "Normalize", H: "Wonder Skin"},
 		heightm: 0.6,
 		weightkg: 11,
