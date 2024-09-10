@@ -7308,7 +7308,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	luxray: {
 		num: 405,
 		name: "Luxray",
-		types: ["Electric"],
+		types: ["Electric", "Dark"],
 		baseStats: {hp: 80, atk: 120, def: 79, spa: 95, spd: 79, spe: 70},
 		abilities: {0: "Rivalry", 1: "Intimidate", H: "Guts"},
 		heightm: 1.4,
