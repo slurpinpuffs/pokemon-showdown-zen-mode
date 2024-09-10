@@ -1169,12 +1169,12 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 5.4,
 		color: "Red",
 		evos: ["Parasect"],
-		eggGroups: ["Bug", "Grass"],
+		eggGroups: ["Bug"],
 	},
 	parasect: {
 		num: 47,
 		name: "Parasect",
-		types: ["Bug", "Grass"],
+		types: ["Bug", "Ghost"],
 		baseStats: {hp: 60, atk: 95, def: 80, spa: 60, spd: 80, spe: 30},
 		abilities: {0: "Effect Spore", 1: "Dry Skin", H: "Damp"},
 		heightm: 1,
@@ -1182,7 +1182,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Red",
 		prevo: "Paras",
 		evoLevel: 24,
-		eggGroups: ["Bug", "Grass"],
+		eggGroups: ["Bug"],
 	},
 	venonat: {
 		num: 48,
