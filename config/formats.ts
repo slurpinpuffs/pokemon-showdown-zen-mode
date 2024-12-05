@@ -12,7 +12,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	{
 		name: "[Gen 4] Zen Mode Singles",
 		mod: 'gen4',
-		ruleset: ['Standard'],
+		ruleset: ['Standard', 'Team Type Preview'],
 		banlist: ['AG', 'Uber', 'OU', 'Arena Trap', 'Quick Claw', 'Soul Dew', 'Swagger'],
 	},
 ];
